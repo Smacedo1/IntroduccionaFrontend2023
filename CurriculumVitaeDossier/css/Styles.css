@@ -1,0 +1,44 @@
+* {
+    color: black;
+}
+
+p {
+    color: red;
+    width: 300px;
+}
+
+.fondo img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.1;
+}
+
+section {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 20px 10px 10px;
+    margin: 10px 20px 10px 10px;
+    font-weight: bold;
+    color: black;
+    font: 20;
+    border: 25px solid purple;
+    
+}
+
+#Columna3 {    
+    color: tan;
+    font-size: 23px;
+    border: 1px solid black;
+}
+
+.santyclass {
+    font-weight: bold;
+    color: purple;
+}
+
+section h1 {
+
+    font-weight: 100;
+}
