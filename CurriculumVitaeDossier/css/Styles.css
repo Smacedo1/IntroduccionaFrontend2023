@@ -2,9 +2,8 @@
     color: black;
 }
 
-p {
-    color: red;
-    width: 300px;
+body {
+        background-color: aquamarine;
 }
 
 .fondo img {
@@ -39,6 +38,6 @@ section {
 }
 
 section h1 {
-
+    
     font-weight: 100;
 }
